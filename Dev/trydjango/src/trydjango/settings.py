@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # third party
     # own
+    'pages',
     'products',
 ]
 
